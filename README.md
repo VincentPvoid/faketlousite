@@ -1,4 +1,4 @@
-# faketlousite
+# fake-tlou-site
 
 如题，TLOU的官网没了，所以还原了一个
 
